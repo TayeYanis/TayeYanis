@@ -1,11 +1,13 @@
 ### Bonjour 👋
 
-Étudiant à l'IUT de Troyes / URCA (France) en 1er année MMI (Métiers du Multimédia et de l'Internet), Développeur front junior, je suis intéressée par le développement web depuis 1 ans. Je pratique le PHP, le HTML/CSS.
+Étudiant à l'IUT de Troyes / URCA (France) en 1er année MMI (Métiers du Multimédia et de l'Internet), Développeur front junior, je suis intéressée par le développement web depuis 1 ans. Je pratique le PHP, le HTML/CSS. 
 
+Langages et outil :
 
-
-Languages and Tools:
-![image](https://user-images.githubusercontent.com/126667847/228551733-d9aa4d44-45dd-4e08-9df3-b220c9dee231.png)
+![image](https://user-images.githubusercontent.com/126667847/228551943-309297fe-080b-4e7c-abb0-d45b96e46c09.png)
+![image](https://user-images.githubusercontent.com/126667847/228552183-a7485726-38dc-4c0a-a050-7046d2dfc2e9.png)
+![image](https://user-images.githubusercontent.com/126667847/228552279-35336a12-0f11-464d-8715-f54ebc3ae5f7.png)
+![image](https://user-images.githubusercontent.com/126667847/228552411-78a2ba32-3c9a-4a21-8f77-e438fd48b873.png)
 
 
 <!--
