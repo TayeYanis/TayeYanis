@@ -1,6 +1,12 @@
 ### Bonjour 👋
 
-Étudiant à l'IUT de Troyes / URCA (France) en 1er année MMI (Métiers du Multimédia et de l'Internet), Développeur front junior, je suis intéressée par le développement web depuis 1 ans. Je pratique le PHP, le HTML/CSS. 
+Étudiant à l'IUT de Troyes / URCA (France) en 1er année MMI (Métiers du Multimédia et de l'Internet), Développeur front junior, je suis intéressée par le développement web depuis 1 ans. Je pratique le PHP, le HTML/CSS.
+
+
+
+Languages and Tools:
+![image](https://user-images.githubusercontent.com/126667847/228551733-d9aa4d44-45dd-4e08-9df3-b220c9dee231.png)
+
 
 <!--
 **TayeYanis/TayeYanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
