@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Étudiant à l'IUT de Troyes / URCA (France) en 1er année MMI (Métiers du Multimédia et de l'Internet), Développeur front junior, je suis intéressée par le développement web depuis 1 ans. Je pratique le PHP, le HTML/CSS. 
+Étudiant à l'IUT de Troyes / URCA (France) en 2ème année MMI (Métiers du Multimédia et de l'Internet), Développeur full stack, je suis intéressée par le développement web depuis 2 ans. Je pratique le PHP, le HTML/CSS, le SCSS aisin que les framework symfony,vuejs et boodstrap. 
 
 Langages et outil :
 
