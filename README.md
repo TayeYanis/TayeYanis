@@ -10,6 +10,8 @@ Langages et outil :
 ![image](https://user-images.githubusercontent.com/126667847/228552411-78a2ba32-3c9a-4a21-8f77-e438fd48b873.png)
 ![image](https://user-images.githubusercontent.com/126667847/228554157-e6267ffc-67cf-48a6-8f24-c0ae59aff5bd.png)
 ![image](https://user-images.githubusercontent.com/126667847/228767817-22e1fd0c-5eac-473b-b7f7-62b9d20c34ca.png)
+![image](https://github.com/TayeYanis/TayeYanis/assets/126667847/2f04c702-2083-4774-a8cc-5c5fdbe697d8)
+![image](https://github.com/TayeYanis/TayeYanis/assets/126667847/277dcdc9-85bf-4ac0-a451-3dc3895f1e8f)
 
 
 
