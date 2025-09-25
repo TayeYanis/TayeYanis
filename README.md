@@ -1,7 +1,7 @@
 # 👋 Bonjour !
 
 Je suis **Yanis Taye**, 23 ans, **Développeur Web** passionné par le développement back-end et les fonctionnalités.  
-Diplômé d’un DUT MMI (Métiers du Multimédia et de l’Internet), je maîtrise plusieurs technologies front-end et back-end, ainsi que des outils de gestion et de design.  
+Diplômé d’un BUT MMI (Métiers du Multimédia et de l’Internet), je maîtrise plusieurs technologies front-end et back-end, ainsi que des outils de gestion et de design.  
 
 ---
 
